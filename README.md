@@ -1,0 +1,1 @@
+2, 3, 4, 7, 8 nolu sayfalardaki kargom nerede ve saticiya sor pnglerinin texti yok. Absolute poition olarak yerleştirince yazıyı değişik genişlikteki ekranlara uyum sağlamıyor o yüzden pnglere text eklenmesi gerekir. 
